@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="874c763f-d156-47f9-99a8-3066d27bfd11" name="Changes" comment="shake">
-      <change afterPath="$PROJECT_DIR$/common2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="874c763f-d156-47f9-99a8-3066d27bfd11" name="Changes" comment="snake2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +87,7 @@
       <workItem from="1702026398093" duration="691000" />
       <workItem from="1702067512396" duration="30000" />
       <workItem from="1704196413608" duration="10494000" />
-      <workItem from="1704369843504" duration="16498000" />
+      <workItem from="1704369843504" duration="16799000" />
     </task>
     <task id="LOCAL-00001" summary="csacsac">
       <created>1702025894126</created>
@@ -115,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704302894914</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="snake2.0">
+      <created>1704391241617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704391241617</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +138,7 @@
     <MESSAGE value="csacsac" />
     <MESSAGE value="csacsacxaX" />
     <MESSAGE value="shake" />
-    <option name="LAST_COMMIT_MESSAGE" value="shake" />
+    <MESSAGE value="snake2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="snake2.0" />
   </component>
 </project>

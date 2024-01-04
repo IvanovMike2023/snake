@@ -194,23 +194,5 @@ let intervalId =  function () {
         speed=20
     }
   }
+
 intervalId()
-// let intervalId =  setInterval(function () {
-//     ctx.clearRect(0, 0, width, height)
-//     drawScope()
-//     snake.move()
-//     snake.draw()
-//     apple.draw()
-//     drawBorder()
-// }, speed)
-
-//snake.draw()
-//let apple = new Block(1, 6)
-//let head = new Block(1, 6)
-
-
-//console.log(head.Equal(apple))
-//sampleBlock.drawSquare('red')
-//sampleCircle.drawCircle('red')
-//console.log(sampleBlock)
-//console.log(heightInBlocks)
