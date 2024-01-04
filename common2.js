@@ -131,7 +131,6 @@ Snake.prototype.checkCollision = function (head) {
     }
     return wallCollision || selfCollision
 }
-
 //создаем метод setDirection - метод напрвления змейки
 Snake.prototype.setDirection = function (newDirection) {
     if (this.direction === 'up' && newDirection === 'doun')
@@ -194,5 +193,4 @@ let intervalId =  function () {
         speed=20
     }
   }
-
 intervalId()
