@@ -72,11 +72,10 @@ let drawgame = () => {
     ctx.font = '50px Arial'
     ctx.fillText(scope, box * 2.5, box * 1.7)
     ctx.fillText(speed, box * 4.5, box * 1.7)
-    console.log(scope)
-    if(scope>2){
-        setInterval(drawgame, 200)
-    }
+
+
 }
+console.log(scope)
 //setInterval(drawgame, speed-=20)
 
 let game = setInterval(drawgame, speed)

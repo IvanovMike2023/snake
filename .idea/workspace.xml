@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="874c763f-d156-47f9-99a8-3066d27bfd11" name="Changes" comment="csacsacxaX">
-      <change afterPath="$PROJECT_DIR$/common.js" afterDir="false" />
+    <list default="true" id="874c763f-d156-47f9-99a8-3066d27bfd11" name="Changes" comment="shake">
+      <change afterPath="$PROJECT_DIR$/common2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.common.js">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\shake" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/shake/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="common2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/common2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="common.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/common.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -61,6 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.common2.js" />
         <item itemvalue="Node.js.common.js" />
         <item itemvalue="npm.start" />
       </list>
@@ -77,7 +91,8 @@
       <workItem from="1702025851288" duration="513000" />
       <workItem from="1702026398093" duration="691000" />
       <workItem from="1702067512396" duration="30000" />
-      <workItem from="1704196413608" duration="10418000" />
+      <workItem from="1704196413608" duration="10494000" />
+      <workItem from="1704369843504" duration="16498000" />
     </task>
     <task id="LOCAL-00001" summary="csacsac">
       <created>1702025894126</created>
@@ -93,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702026442112</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="shake">
+      <created>1704302894914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704302894914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="csacsac" />
     <MESSAGE value="csacsacxaX" />
-    <option name="LAST_COMMIT_MESSAGE" value="csacsacxaX" />
+    <MESSAGE value="shake" />
+    <option name="LAST_COMMIT_MESSAGE" value="shake" />
   </component>
 </project>
